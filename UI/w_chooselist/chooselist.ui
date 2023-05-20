@@ -72,10 +72,37 @@ QListWidget::item:focus {
     <property name="text">
      <string>Red</string>
     </property>
+    <property name="foreground">
+     <brush brushstyle="NoBrush">
+      <color alpha="255">
+       <red>255</red>
+       <green>24</green>
+       <blue>105</blue>
+      </color>
+     </brush>
+    </property>
    </item>
    <item>
     <property name="text">
      <string>Blue</string>
+    </property>
+    <property name="background">
+     <brush brushstyle="NoBrush">
+      <color alpha="0">
+       <red>0</red>
+       <green>0</green>
+       <blue>0</blue>
+      </color>
+     </brush>
+    </property>
+    <property name="foreground">
+     <brush brushstyle="NoBrush">
+      <color alpha="255">
+       <red>97</red>
+       <green>143</green>
+       <blue>229</blue>
+      </color>
+     </brush>
     </property>
    </item>
    <item>
@@ -86,6 +113,15 @@ QListWidget::item:focus {
    <item>
     <property name="text">
      <string>Green</string>
+    </property>
+    <property name="foreground">
+     <brush brushstyle="NoBrush">
+      <color alpha="255">
+       <red>153</red>
+       <green>255</green>
+       <blue>75</blue>
+      </color>
+     </brush>
     </property>
    </item>
   </widget>
