@@ -11,6 +11,20 @@
                             "CardText": "CelafsddddddddddddddddddddlTex"
                         },
                         {
+                            "CardColor": "Green",
+                            "CardName": "NewCard",
+                            "CardOwners": [],
+                            "CardText": "CellTextCellTextCellTextCellTextCellTextCellTextCellTextCellTextCellTextCellTextCellTextCellTextCellTextCellTextCellTextCellTextCellTextCellTextCellText"
+                        },
+                        {
+                            "CardColor": "Blue",
+                            "CardName": "\\\\n\\n\\nn\\\\n-%s_%x-%x",
+                            "CardOwners": [
+                                "Idioto"
+                            ],
+                            "CardText": "asdfasfdsdffdsfdsasfafsdasfdasfdDSADAFADFSAFDSAFDDAFSDAFS"
+                        },
+                        {
                             "CardColor": "Black",
                             "CardName": "CardName",
                             "CardOwners": [],
