@@ -1,1 +1,7 @@
-# task_tracker_qt
+Qt task tracker project
+---
+
+### My first dekstop application, team project
+
+---
+**C++/Qt**
